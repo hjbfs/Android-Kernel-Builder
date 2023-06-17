@@ -2,9 +2,9 @@
   {
     "kernelSource": {
       "name": "Wayne_KenrlSU_Google",
-      "repo": "https://github.com/Diva-Room/Miku_kernel_xiaomi_wayne",
+      "repo": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/moonstone-s-oss",
       "branch": "TDA",
-      "device": "wayne",
+      "device": "moonstone",
       "defconfig": "vendor/wayne_defconfig"
     },
     "withKernelSU": false,
