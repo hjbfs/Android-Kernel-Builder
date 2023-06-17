@@ -2,12 +2,12 @@
   {
     "kernelSource": {
       "name": "Chopin_KernelSU_Proton",
-      "repo": "https://github.com/AOSP-13-Mediatek/kernel_xiaomi_chopin",
+      "repo": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/moonstone-s-oss",
       "branch": "r",
-      "device": "chopin",
-      "defconfig": "chopin_user_defconfig"
+      "device": "moonstone",
+      "defconfig": "moonstone_defconfig"
     },
-    "withKernelSU": false,
+    "withKernelSU": true,
     "toolchains": [
       {
         "repo": "https://github.com/kdrag0n/proton-clang",
